@@ -1,7 +1,7 @@
 
 
 @echo off
-title Roblox Bruteforce
+title RWIREFORCE
 mode 80, 28
 chcp 65001 >nul
 cd files
@@ -20,7 +20,7 @@ cls
 echo.
 echo.
 echo.
-echo [94m [16:00] [0m - [32m [STARTUP] [0m - [94m 5 [0m
+echo [34m [16:00] [0m - [32m [STARTUP] [0m - [94m 5 [0m
 ping localhost -n 2 >nul              
 echo [94m [16:00] [0m - [32m [STARTUP] [0m - [94m 4 [0m
 ping localhost -n 2 >nul              
@@ -475,6 +475,7 @@ pause
 
 )						
  
+
 
 
 
